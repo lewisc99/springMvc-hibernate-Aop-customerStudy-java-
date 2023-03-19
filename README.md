@@ -1,8 +1,15 @@
 ﻿# JAVA SPRING MVC AND HIbernate - Crud register of Seller.
 
+## 🚀 Tech Used<br/>
+<br/>
+- SPRING MVC<br/>
+- MYSQL <br/>
+- html e css <br/>
+- Hibernate<br/>
+- AOP Logger <br/>
+- Bootstrap
+<br/>
 
-
-=
 
 
 ## 🖼 Screenshot application screen <br/>
@@ -23,19 +30,6 @@
 <br/>
 
 <br/>
-## 🚀 Tech Used<br/>
-<br/>
-
-
-
-- SPRING MVC<br/>
-- MYSQL <br/>
-- html e css <br/>
-- Hibernate<br/>
-- AOP Logger <br/>
-- Bootstrap
-<br/>
-
 
 
 ## Linkedin below
